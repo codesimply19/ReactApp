@@ -1,3 +1,3 @@
 # ReactApp
-Implemented searching on the basis of title.
-Implemented filter based sorting
+1.Implemented searching on the basis of title.
+2.Implemented filter based sorting
